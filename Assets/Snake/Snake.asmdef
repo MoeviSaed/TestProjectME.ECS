@@ -1,0 +1,29 @@
+{
+    "name": "Snake",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS",
+        "ME.Pools",
+        "ME.ECS.Serializer",
+        "ME.ECS.IL2CPP",
+        "Unity.Mathematics",
+        "ME.ECS.Transform",
+        "ME.ECS.Collections.DataObject",
+        "ME.ECS.FilterBag",
+        "ME.ECS.FPMath",
+        "ME.ECS.Markers",
+        "ME.ECS.Physics",
+        "ME.ECS.Tests",
+        "ME.ECS.Editor",
+        "ME.ECS.Addons.EntityTimers"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
